@@ -1,2 +1,0 @@
-ghlight Comment ctermfg=yellow
-
